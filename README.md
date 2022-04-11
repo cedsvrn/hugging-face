@@ -1,2 +1,2 @@
 # hugging-face
-Trying and having fun with HuggingFace transformers.
+Trying and having fun with Hugging Face transformers.
